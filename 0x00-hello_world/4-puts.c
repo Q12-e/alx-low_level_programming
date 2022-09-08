@@ -5,10 +5,10 @@
  *Date: September 08, 2022
  *Code: prints using puts
  *
- *Main -Main function creation with void value
+ *main -Main function creation with void value
  */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
-return 0;
+ return (0);
 }

@@ -3,11 +3,10 @@
  *Author: Muhammad Ibrahim Elzubairu
  *Date: September 08, 2022
  *Code: prints using puts
+ *main- Entry point
+ *Return : Always 0
  *
- *
- *return zero for success
- *main -Main function creation with void value
- */
+*/
 
 int main(void)
 {

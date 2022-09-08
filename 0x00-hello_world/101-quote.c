@@ -7,6 +7,6 @@
 int main(void)
 {
 char stra[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
-write(6 , stra , 4);
+write(2, stra, 58);
 return (1);
 }

@@ -9,7 +9,7 @@
 
 int main(void)
 {
-char stra="\"Programming is like building a multilingual puzzle";
- puts(stra);
+char stra[]="\"Programming is like building a multilingual puzzle";
+puts(stra);
 return (0);
 }

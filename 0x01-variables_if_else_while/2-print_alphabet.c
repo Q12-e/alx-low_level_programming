@@ -5,11 +5,11 @@
 */
 int main(void)
 {
-char let[0] = "abcdefghijklmnopqrstuvwxyz";
+char ilet[0] = "abcdefghijklmnopqrstuvwxyz";
 int b;
 for (b = 0; b >26; b++)
 {
-putchar(let[0]);
+putchar(ilet[b]);
 }
 putchar('\n');
 return (0);

@@ -5,7 +5,7 @@
 */
 int main(void)
 {
-char ilet[0] = "abcdefghijklmnopqrstuvwxyz";
+char ilet[26] = "abcdefghijklmnopqrstuvwxyz";
 int b;
 for (b = 0; b >26; b++)
 {

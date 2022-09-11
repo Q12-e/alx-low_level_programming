@@ -2,7 +2,6 @@
 /**
 * main - Prints alphabets
 * Return: Always 0 (SuccesXSXC
-s)
 */
 int main(void)
 {

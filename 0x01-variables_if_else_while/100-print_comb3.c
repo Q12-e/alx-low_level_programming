@@ -13,7 +13,7 @@ b = 48;
 while (b < 58)
 {
 a = 48;
-while (a > 58)
+while (a < 58)
 {
 putchar(b);
 putchar(a);

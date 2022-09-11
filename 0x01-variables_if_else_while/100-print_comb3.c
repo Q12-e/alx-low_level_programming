@@ -10,10 +10,10 @@ int main(void)
 int a, b;
 a = 48;
 b = 48;
-while (58 > b)
+while (b < 58)
 {
 a = 48;
-while (58 > a)
+while (a > 58)
 {
 putchar(b);
 putchar(a);

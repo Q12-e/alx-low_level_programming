@@ -1,7 +1,10 @@
 #include "main.h"
 
 /**
- *Return: return value is zero
+ **_strcat - function commute string
+ *@dest: param pointer to a char
+ *@src: param pointer to a char
+ *Return: return valueof dest
 **/
 char *_strcat(char *dest, char *src)
 {
